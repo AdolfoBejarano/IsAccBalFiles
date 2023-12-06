@@ -1,2 +1,6 @@
 {orca, cosa,vvvv,kkkk,pppp,yugo},
+{leon,media,mouse,lapiz,cccc,peto},
+{orca, cosa,vvvv,kkkk,pppp,yugo},
+{leon,media,mouse,lapiz,cccc,peto},
+{orca, cosa,vvvv,kkkk,pppp,yugo},
 {leon,media,mouse,lapiz,cccc,peto}
