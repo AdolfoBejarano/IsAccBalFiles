@@ -1,1 +1,1 @@
-corredor,bicicleta,silla,nevera,puerta
+color,raton,rosa,boligrafo,oso
