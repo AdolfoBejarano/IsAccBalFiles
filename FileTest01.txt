@@ -1,1 +1,1 @@
-color,raton,rosa,boligrafo,oso
+roca,filo,hacha,machete,rio,camion
