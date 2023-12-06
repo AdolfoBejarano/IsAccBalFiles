@@ -1,1 +1,1 @@
-xxx,gggggggggggggg,tttttttttttt,saco,pelo,cabeza,pulga
+perro,roca,cola,peso,cara
