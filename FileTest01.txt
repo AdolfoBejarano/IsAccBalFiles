@@ -1,1 +1,2 @@
-orca, cosa,vvvv,kkkk
+{orca, cosa,vvvv,kkkk,pppp,yugo},
+{leon,media,mouse,lapiz,cccc,peto}
