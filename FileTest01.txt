@@ -1,1 +1,1 @@
-perro,roca,cola,peso,cara
+corredor,bicicleta,silla,nevera,puerta
