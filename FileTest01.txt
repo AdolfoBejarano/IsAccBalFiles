@@ -1,8 +1,1 @@
-{kkkkk,mmm,IIII,gorra,cola,vaca,toro,dddddddd,qqqqqqqqqqq},
-{ffff,mmmm,jjjj,casa,carro,avion,maquina,cosa,yyyyy},
-[{kkkkk,mmm,IIII,gorra,cola,vaca,toro,dddddddd,qqqqqqqqqqq},
-{ffff,mmmm,jjjj,casa,carro,avion,maquina,cosa,yyyyy},
-{kkkkk,mmm,IIII,gorra,cola,vaca,toro,dddddddd,qqqqqqqqqqq},
-{ffff,mmmm,jjjj,casa,carro,avion,maquina,cosa,yyyyy},
-[{kkkkk,mmm,IIII,gorra,cola,vaca,toro,dddddddd,qqqqqqqqqqq},
-{ffff,mmmm,jjjj,casa,carro,avion,maquina,cosa,yyyyy}
+orca, cosa,vvvv,kkkk,pppp,yugo
