@@ -1,1 +1,1 @@
-pechiblanco,azulejo,loro,aguila
+avion,aerodromo,drone,helicoptero,paracaidas
