@@ -1,1 +1,1 @@
-via,camion,taxi,bus
+perro,carnero,toro,golondrina,condor
