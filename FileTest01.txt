@@ -1,1 +1,1 @@
-[{kkkkk,mmm,IIII,gorra,cola,vaca,toro,dddddddd,qqqqqqqqqqq},{ffff,mmmm,jjjj,casa,carro,avion,maquina,cosa,yyyyy}]
+via,camion,taxi,bus
