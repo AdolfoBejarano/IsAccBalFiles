@@ -1,1 +1,1 @@
-lunes,martes,domingo,sabado,viernes
+jan,feb,june,july,sept,dec
