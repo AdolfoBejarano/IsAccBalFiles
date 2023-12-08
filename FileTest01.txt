@@ -1,1 +1,1 @@
-jan,feb,june,july,sept,dec
+francia,uruguay,brasil,peru,argentina,rusia
