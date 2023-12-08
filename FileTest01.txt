@@ -1,1 +1,1 @@
-rojo,verde,rosado,amarillo,azul,marron
+silla,mesa,sofa,asiento,sala
