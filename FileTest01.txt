@@ -1,1 +1,1 @@
-perro,carnero,toro,golondrina,condor
+rojo,verde,rosado,amarillo,azul,marron
