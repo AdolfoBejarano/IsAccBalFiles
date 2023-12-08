@@ -1,1 +1,1 @@
-silla,mesa,sofa,asiento,sala
+lunes,martes,domingo,sabado,viernes
