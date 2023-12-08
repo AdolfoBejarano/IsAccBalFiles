@@ -1,1 +1,1 @@
-via,camion,taxi,bus
+avion,aerodromo,drone,helicoptero,paracaidas
